@@ -1,0 +1,10 @@
+site_name: Hiking Maps
+pages:
+- 'Home': 'index.md'
+- 'Maps':
+  - 'Mount Everard': 'kinglakenationalpark/mounteverard.md'
+  - 'Silver Creek': 'kinglakenationalpark/silvercreek.md'
+extra_templates: [
+]
+markdown_extensions: [
+]
