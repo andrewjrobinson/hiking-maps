@@ -9,6 +9,8 @@ with this walk.
 
 ## Map
 
-![QRCode](SilverCreek-KinglakeNP-500m-qr.png)
-
 [Silver Creek Map (500m).pdf](SilverCreek-KinglakeNP-500m.pdf)
+
+OR scan with *PDF Maps*
+
+![QRCode](SilverCreek-KinglakeNP-500m-qr.png)

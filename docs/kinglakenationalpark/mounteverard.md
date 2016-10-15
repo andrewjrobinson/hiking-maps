@@ -8,6 +8,8 @@ Loop walk near Kinglake township
 
 ## Map
 
-![QRCode](MountEverard-KinglakeNP-300m-qr.png)
-
 [Mount Everard Map (300m)](MountEverard-KinglakeNP-300m.pdf)
+
+OR scan with *PDF Maps*
+
+![QRCode](MountEverard-KinglakeNP-300m-qr.png)
