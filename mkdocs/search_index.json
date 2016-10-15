@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/kinglakenationalpark/mounteverard/", 
-            "text": "Mount Everard\n\n\nLoop walk near Kinglake township\n\n\nElevation\n\n\n\n\nMap\n\n\n\n\nMount Everard Map (300m)", 
+            "text": "Mount Everard\n\n\nLoop walk near Kinglake township\n\n\nElevation\n\n\n\n\nMap\n\n\nMount Everard Map (300m)\n\n\nOR scan with \nPDF Maps", 
             "title": "Mount Everard"
         }, 
         {
@@ -37,12 +37,12 @@
         }, 
         {
             "location": "/kinglakenationalpark/mounteverard/#map", 
-            "text": "Mount Everard Map (300m)", 
+            "text": "Mount Everard Map (300m)  OR scan with  PDF Maps", 
             "title": "Map"
         }, 
         {
             "location": "/kinglakenationalpark/silvercreek/", 
-            "text": "Silver Creek\n\n\nThe long (orange) walk at Silver Creek.  There are 3 other options some overlapping \nwith this walk.\n\n\nElevation\n\n\n\n\nMap\n\n\n\n\nSilver Creek Map (500m).pdf", 
+            "text": "Silver Creek\n\n\nThe long (orange) walk at Silver Creek.  There are 3 other options some overlapping \nwith this walk.\n\n\nElevation\n\n\n\n\nMap\n\n\nSilver Creek Map (500m).pdf\n\n\nOR scan with \nPDF Maps", 
             "title": "Silver Creek"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "location": "/kinglakenationalpark/silvercreek/#map", 
-            "text": "Silver Creek Map (500m).pdf", 
+            "text": "Silver Creek Map (500m).pdf  OR scan with  PDF Maps", 
             "title": "Map"
         }
     ]
