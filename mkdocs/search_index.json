@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Maps\n\n\nKinglake National Park (VIC/Australia)\n\n\n\n\nMason Falls loop (coming)\n\n\nMount Everard Loop\n 18.5km\n\n\nSilver Creek Long Loop\n 13.9km\n\n\n\n\nLerderderg State Park (VIC/Australia)\n\n\n\n\nComing", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#maps", 
+            "text": "", 
+            "title": "Maps"
+        }, 
+        {
+            "location": "/#kinglake-national-park-vicaustralia", 
+            "text": "Mason Falls loop (coming)  Mount Everard Loop  18.5km  Silver Creek Long Loop  13.9km", 
+            "title": "Kinglake National Park (VIC/Australia)"
+        }, 
+        {
+            "location": "/#lerderderg-state-park-vicaustralia", 
+            "text": "Coming", 
+            "title": "Lerderderg State Park (VIC/Australia)"
+        }, 
+        {
+            "location": "/kinglakenationalpark/mounteverard/", 
+            "text": "Mount Everard\n\n\nLoop walk near Kinglake township\n\n\nElevation\n\n\n\n\nMap\n\n\n\n\nMount Everard Map (300m)", 
+            "title": "Mount Everard"
+        }, 
+        {
+            "location": "/kinglakenationalpark/mounteverard/#mount-everard", 
+            "text": "Loop walk near Kinglake township", 
+            "title": "Mount Everard"
+        }, 
+        {
+            "location": "/kinglakenationalpark/mounteverard/#elevation", 
+            "text": "", 
+            "title": "Elevation"
+        }, 
+        {
+            "location": "/kinglakenationalpark/mounteverard/#map", 
+            "text": "Mount Everard Map (300m)", 
+            "title": "Map"
+        }, 
+        {
+            "location": "/kinglakenationalpark/silvercreek/", 
+            "text": "Silver Creek\n\n\nThe long (orange) walk at Silver Creek.  There are 3 other options some overlapping \nwith this walk.\n\n\nElevation\n\n\n\n\nMap\n\n\n\n\nSilver Creek Map (500m).pdf", 
+            "title": "Silver Creek"
+        }, 
+        {
+            "location": "/kinglakenationalpark/silvercreek/#silver-creek", 
+            "text": "The long (orange) walk at Silver Creek.  There are 3 other options some overlapping \nwith this walk.", 
+            "title": "Silver Creek"
+        }, 
+        {
+            "location": "/kinglakenationalpark/silvercreek/#elevation", 
+            "text": "", 
+            "title": "Elevation"
+        }, 
+        {
+            "location": "/kinglakenationalpark/silvercreek/#map", 
+            "text": "Silver Creek Map (500m).pdf", 
+            "title": "Map"
+        }
+    ]
+}
