@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Maps\n\n\nKinglake National Park (VIC/Australia)\n\n\n\n\nMason Falls loop (coming)\n\n\nMount Everard Loop\n 18.5km (loop)\n\n\nSilver Creek Long Loop\n 13.9km (loop)\n\n\n\n\nLerderderg State Park (VIC/Australia)\n\n\n\n\nComing\n\n\n\n\nMornington Peninsula (VIC/Australia)\n\n\n\n\nCape Schanck and Bushranger Bay\n 12.9km (return)", 
+            "text": "Maps\n\n\n\n\nKinglake National Park (VIC/Australia)\n\n\n\n\nMasons Falls loop\n 15.9km (loop)\n\n\nMount Everard Loop\n 18.5km (loop)\n\n\nSilver Creek Long Loop\n 13.9km (loop)\n\n\n\n\nLerderderg State Park (VIC/Australia)\n\n\n\n\nComing\n\n\n\n\nMornington Peninsula (VIC/Australia)\n\n\n\n\nCape Schanck and Bushranger Bay\n 12.9km (return)", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#kinglake-national-park-vicaustralia", 
-            "text": "Mason Falls loop (coming)  Mount Everard Loop  18.5km (loop)  Silver Creek Long Loop  13.9km (loop)", 
+            "text": "Masons Falls loop  15.9km (loop)  Mount Everard Loop  18.5km (loop)  Silver Creek Long Loop  13.9km (loop)", 
             "title": "Kinglake National Park (VIC/Australia)"
         }, 
         {
@@ -43,6 +43,26 @@
         {
             "location": "/morningtonpeninsula/capeschanckbushrangerbay/#map", 
             "text": "Cape Schanck and Bushranger Bay (500m)  OR scan with  PDF Maps", 
+            "title": "Map"
+        }, 
+        {
+            "location": "/kinglakenationalpark/masonsfalls/", 
+            "text": "Masons Falls\n\n\n15.9 km Loop via Masons Falls\n\n\nElevation\n\n\n\n\nMap\n\n\nMasons Falls Loop\n\n\nOR scan with \nPDF Maps", 
+            "title": "Masons Falls"
+        }, 
+        {
+            "location": "/kinglakenationalpark/masonsfalls/#masons-falls", 
+            "text": "15.9 km Loop via Masons Falls", 
+            "title": "Masons Falls"
+        }, 
+        {
+            "location": "/kinglakenationalpark/masonsfalls/#elevation", 
+            "text": "", 
+            "title": "Elevation"
+        }, 
+        {
+            "location": "/kinglakenationalpark/masonsfalls/#map", 
+            "text": "Masons Falls Loop  OR scan with  PDF Maps", 
             "title": "Map"
         }, 
         {
