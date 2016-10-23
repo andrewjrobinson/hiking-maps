@@ -8,7 +8,6 @@ TODO: FINISH
 
 * *QMapShack* (or other tool to draw map)
 * *QLandkarte GT*
-* *GIMP* (or other image editor)
 * *GDAL*
 
 ## Step 1: make map file
@@ -17,29 +16,17 @@ Use QMapShack to create a map of your desire.
  
 * OSM Topo is a good base map
 * Load any GPS traces you want to highlight (or add a manual track)
-* Create GPX file to store page area
-* Add *Area* rectangle roughly where you want the map page to be
-* Edit *Area* rectangle so it is coloured black and remove pattern
-* Save/Close GPX (as MAPNAME.gpx)
-* Open GPX in text editor and correct area points so they are a rectangle
-
-```xml
-   <ql:point lon="145.23923825" lat="-37.36175603"/>
-   <ql:point lon="145.23923825" lat="-37.41775931"/>
-   <ql:point lon="145.28910051" lat="-37.41775931"/>
-   <ql:point lon="145.28910051" lat="-37.36175603"/>
-```
-
-* Save/close GPX
-* Open GPX in QMapShack again
+  * For manual tracks add elevation information (DEM) and it will add them to your points
+  * Save track in GPX file
+* Add top-left and bottom-right corners of map area as waypoints (name the 
+  bottom-right ' ', i.e. a space character)
 * Load tiles
   * Zoom to desired level (300m or 500m are good)
   * Pan so all map tiles are loaded
 * Save(Print) Map Screenshot
-  * Select area roughly near rectangle
-  * Zoom to 30m level
-  * Correct corners so the handle box just touches map rectangle
-  * Zoom back to desired level (300m/500m)
+  * Select area roughly near top-right to bottom-left
+  * Zoom to desired level (again if you changed it for above)
+  * Correct corners so the handle box aligns with waypoint centre
   * Click save icon (top right of screenshot rectangle
   * Write to MAPNAME_raw.png
   
@@ -56,15 +43,10 @@ Optional:
 
 Using GIMP add elevation and map name / other details
 
-TODO: make this into a python tool
+TODO: make options as cmdline args
 
-* Open MAPNAME.png
-* Save as MAPNAME.xcf
-* Expand Canvas (40px for 300m, 90px 500m) and expand layers
-* Fill white header and footer
-* Add title and footer text
-* Add elevation plot into a blank area of map
-* Export as MAPNAME.png
+* Edit *addheaderfooter.py* file (settings at top)
+* Run *addheaderfooter.py*
 
 ## Step 4: Geo-reference image
 
