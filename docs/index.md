@@ -1,8 +1,10 @@
 # Maps
 
+![Hike Location Overview](overview.png)
+
 ## Kinglake National Park (VIC/Australia)
 
-* Mason Falls loop (coming)
+* [Masons Falls loop](kinglakenationalpark/masonsfalls.md) 15.9km (loop)
 * [Mount Everard Loop](kinglakenationalpark/mounteverard.md) 18.5km (loop)
 * [Silver Creek Long Loop](kinglakenationalpark/silvercreek.md) 13.9km (loop)
 

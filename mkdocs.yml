@@ -3,6 +3,7 @@ pages:
 - 'Home': 'index.md'
 - 'Maps':
   - 'Cape Schanck and Bushranger Bay': 'morningtonpeninsula/capeschanckbushrangerbay.md'
+  - 'Masons Falls': 'kinglakenationalpark/masonsfalls.md'
   - 'Mount Everard': 'kinglakenationalpark/mounteverard.md'
   - 'Silver Creek': 'kinglakenationalpark/silvercreek.md'
 extra_templates: [
