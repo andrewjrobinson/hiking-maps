@@ -6,6 +6,7 @@ pages:
   - 'Masons Falls': 'kinglakenationalpark/masonsfalls.md'
   - 'Mount Everard': 'kinglakenationalpark/mounteverard.md'
   - 'Silver Creek': 'kinglakenationalpark/silvercreek.md'
+  - 'Ted Errey Nature Circuit': 'brisbaneranges/tederreynaturecircuit.md'
 extra_templates: [
 ]
 markdown_extensions: [

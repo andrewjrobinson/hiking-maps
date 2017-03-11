@@ -2,6 +2,10 @@
 
 ![Hike Location Overview](overview.png)
 
+## Brisbane Ranges National Park (VIC/Australia)
+
+* [Ted Errey Nature Circuit](brisbaneranges/tederreynaturecircuit.md) 12.2km (loop)
+
 ## Kinglake National Park (VIC/Australia)
 
 * [Masons Falls loop](kinglakenationalpark/masonsfalls.md) 15.9km (loop)

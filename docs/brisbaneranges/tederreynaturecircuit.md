@@ -4,7 +4,7 @@ A 12.2km loop track via Anakie Gorge and Ted Errey Nature Circuit
 
 ## Elevation
 
-![Elevation](CapeSchanckandBushrangerBay-500m_elev.png)
+![Elevation](TedErreyNatureCircuit_elev.png)
 
 ## Map
 
