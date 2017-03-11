@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Maps\n\n\n\n\nKinglake National Park (VIC/Australia)\n\n\n\n\nMasons Falls loop\n 15.9km (loop)\n\n\nMount Everard Loop\n 18.5km (loop)\n\n\nSilver Creek Long Loop\n 13.9km (loop)\n\n\n\n\nLerderderg State Park (VIC/Australia)\n\n\n\n\nComing\n\n\n\n\nMornington Peninsula (VIC/Australia)\n\n\n\n\nCape Schanck and Bushranger Bay\n 12.9km (return)", 
+            "text": "Maps\n\n\n\n\nBrisbane Ranges National Park (VIC/Australia)\n\n\n\n\nTed Errey Nature Circuit\n 12.9km (return)\n\n\n\n\nKinglake National Park (VIC/Australia)\n\n\n\n\nMasons Falls loop\n 15.9km (loop)\n\n\nMount Everard Loop\n 18.5km (loop)\n\n\nSilver Creek Long Loop\n 13.9km (loop)\n\n\n\n\nLerderderg State Park (VIC/Australia)\n\n\n\n\nComing\n\n\n\n\nMornington Peninsula (VIC/Australia)\n\n\n\n\nCape Schanck and Bushranger Bay\n 12.9km (return)", 
             "title": "Home"
         }, 
         {
             "location": "/#maps", 
             "text": "", 
             "title": "Maps"
+        }, 
+        {
+            "location": "/#brisbane-ranges-national-park-vicaustralia", 
+            "text": "Ted Errey Nature Circuit  12.9km (return)", 
+            "title": "Brisbane Ranges National Park (VIC/Australia)"
         }, 
         {
             "location": "/#kinglake-national-park-vicaustralia", 
@@ -103,6 +108,26 @@
         {
             "location": "/kinglakenationalpark/silvercreek/#map", 
             "text": "Silver Creek Map (500m).pdf  OR scan with  PDF Maps", 
+            "title": "Map"
+        }, 
+        {
+            "location": "/brisbaneranges/tederreynaturecircuit/", 
+            "text": "Ted Errey Nature Circuit\n\n\nA 12.2km loop track via Anakie Gorge and Ted Errey Nature Circuit\n\n\nElevation\n\n\n\n\nMap\n\n\nTed Errey Nature Circuit (500m)\n\n\nOR scan with \nAvenza Maps", 
+            "title": "Ted Errey Nature Circuit"
+        }, 
+        {
+            "location": "/brisbaneranges/tederreynaturecircuit/#ted-errey-nature-circuit", 
+            "text": "A 12.2km loop track via Anakie Gorge and Ted Errey Nature Circuit", 
+            "title": "Ted Errey Nature Circuit"
+        }, 
+        {
+            "location": "/brisbaneranges/tederreynaturecircuit/#elevation", 
+            "text": "", 
+            "title": "Elevation"
+        }, 
+        {
+            "location": "/brisbaneranges/tederreynaturecircuit/#map", 
+            "text": "Ted Errey Nature Circuit (500m)  OR scan with  Avenza Maps", 
             "title": "Map"
         }
     ]
